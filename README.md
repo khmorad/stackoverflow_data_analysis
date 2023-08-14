@@ -10,7 +10,7 @@ The Stack Overflow Developer Survey is an annual survey that gathers information
 
 ## Dataset
 
-The dataset used for this analysis is the "survey_results_public.csv" file from the Stack Overflow Developer Survey 2023. You can find the dataset [here](data/survey_results_public.csv). The data contains a wide range of information about developers, including demographics, programming languages, technologies, job satisfaction, and more.
+The dataset used for this analysis is the "survey_results_public.csv" file from the Stack Overflow Developer Survey 2023. You can find the dataset [here](https://insights.stackoverflow.com/survey). The data contains a wide range of information about developers, including demographics, programming languages, technologies, job satisfaction, and more.
 
 ## Analysis
 
