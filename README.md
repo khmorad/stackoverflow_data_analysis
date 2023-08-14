@@ -1,7 +1,5 @@
 # Stack Overflow Developer Survey 2023 Analysis
 
-![Stack Overflow Logo](images/logo-stackoverflow.svg)
-
 Welcome to the Stack Overflow Developer Survey 2023 Analysis project repository! In this project, I've conducted an in-depth analysis of the survey results to gain valuable insights into the preferences, trends, and opinions within the developer community. This analysis not only provides a comprehensive overview of the survey data but also serves as a platform to showcase my proficiency in data analytics using the Pandas library.
 
 Through this project, I aim to demonstrate my ability to manipulate and analyze data effectively, extract meaningful conclusions, and visualize findings for a broader audience. By leveraging the power of Pandas, I've explored various aspects of the survey data, uncovering valuable information that can shed light on the developer landscape.
